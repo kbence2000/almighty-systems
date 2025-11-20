@@ -1,0 +1,5 @@
+tests/paradox.test.js
+tests/rift.test.js
+tests/dualResonance.test.js
+tests/singularity.test.js
+tests/systemHealth.test.js

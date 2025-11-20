@@ -1,5 +1,3 @@
 name = "almighty-systems"
 pages_build_output_dir = "frontend"
-
-[build]
-command = ""
+compatibility_date = "2025-01-01"

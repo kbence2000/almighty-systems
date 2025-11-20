@@ -1,0 +1,6 @@
+https://<worker>.workers.dev/
+
+POST https://<worker>.workers.dev/ai/singularity
+{
+  "input": "Elemezd a rendszerem és adj roadmapet."
+}

@@ -1,0 +1,19 @@
+frontend/
+ ├── index.html
+ ├── dashboard.html
+ ├── matrixUI.html
+ ├── globalHealthPanel.html
+ ├── almightyCore.html
+ │
+ ├── css/
+ │    ├── main.css
+ │    ├── theme-dark.css
+ │    ├── glow-effects.css
+ │    ├── 3d-panels.css
+ │
+ └── js/
+      ├── uiCore.js
+      ├── matrixRenderer.js
+      ├── moduleVisualizer.js
+      ├── systemHealthUI.js
+      └── glowEffects.js

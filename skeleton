@@ -1,0 +1,41 @@
+almighty-systems/
+│
+├── core-intelligence/             # Paradox Engine, 18 Minds, Hallucinator
+│   ├── paradox/
+│   ├── endless-mind-symphony/
+│   ├── hallucinator/
+│   └── clones/
+│
+├── stability-engines/             # Rift Engine, Anti-Rift, Dual-Rift
+│   ├── rift/
+│   ├── anti-rift/
+│   └── dual-rift/
+│
+├── mathematical-engines/          # dB, Anti-dB, Dual Resonance
+│   ├── db/
+│   ├── anti-db/
+│   └── dual-resonance/
+│
+├── meta-engineering/              # Orchestrator, Combinator, Simulation
+│   ├── orchestrator/
+│   ├── auto-training/
+│   ├── combinator/
+│   └── simulation-layer/
+│
+├── semantic-knowledge/            # Semantic, Anti-Semantic, Idea Collector
+│   ├── semantic/
+│   ├── anti-semantic/
+│   └── idea-vault/
+│
+├── dark-engines/                   # Anti-Paradox, Inversion, Negative Quantum
+│   ├── anti-paradox/
+│   ├── inversion/
+│   └── neg-quantum/
+│
+├── utilities/                     # Hex, C+++, Scramble, Arch Linux
+│   ├── hex/
+│   ├── anti-hex/
+│   ├── scramble/
+│   └── arch-linux/
+│
+└── frontend/                      # Web UI (később cloudflare pages)

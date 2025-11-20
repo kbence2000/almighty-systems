@@ -1,1 +1,13 @@
+# --- REQUIRED BY CLOUDFLARE PAGES ---
+name = "almighty-systems"
+
+# The folder Cloudflare should deploy (your frontend build)
+pages_build_output_dir = "frontend"
+
+# Optional: environment variables
+[vars]
+ENV = "production"
+
+# Optional preview environment config
+[env.preview]
 pages_build_output_dir = "frontend"

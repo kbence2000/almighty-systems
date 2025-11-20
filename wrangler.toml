@@ -1,5 +1,11 @@
 name = "almighty-systems"
 compatibility_date = "2025-01-01"
 
-# This is REQUIRED for Cloudflare Pages
-pages_build_output_dir = "./frontend"
+[pages]
+pages_build_output_dir = "frontend"
+
+[build]
+command = ""
+
+[site]
+bucket = "frontend"

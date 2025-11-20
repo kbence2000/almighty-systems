@@ -1,0 +1,7 @@
+name = "almighty-systems"
+main = "frontend/index.html"
+compatibility_date = "2024-01-01"
+
+# Ha API Worker lesz
+[build]
+command = "npm install && npm run build"

@@ -1,0 +1,75 @@
+backend/
+ ├── core/
+ │    ├── paradoxEngine.js
+ │    ├── antiParadoxEngine.js
+ │    ├── riftEngine.js
+ │    ├── antiRiftEngine.js
+ │    ├── dualRiftEngine.js
+ │    ├── singularityTheoryEngine.js
+ │    ├── dbEngine.js
+ │    ├── antiDbEngine.js
+ │    ├── dualResonanceEngine.js
+ │    ├── frequencyEngine.js
+ │    ├── whiteNoise/
+ │    │      ├── whiteNoiseEngine1.js
+ │    │      ├── whiteNoiseEngine2.js
+ │    │      ├── whiteNoiseEngine3.js
+ │    │      ├── whiteNoiseEngine4.js
+ │    │      ├── whiteNoiseEngine5.js
+ │    ├── antiWhiteNoise/
+ │    │      ├── antiWhiteNoiseEngine1.js
+ │    │      ├── antiWhiteNoiseEngine2.js
+ │    │      ├── antiWhiteNoiseEngine3.js
+ │    │      ├── antiWhiteNoiseEngine4.js
+ │    │      ├── antiWhiteNoiseEngine5.js
+ │    ├── semanticEngine.js
+ │    ├── antiSemanticEngine.js
+ │    ├── hallucinationEngine.js
+ │    ├── negativeQuantumEngine.js
+ │    ├── inversionMechanicsEngine.js
+ │    ├── scrambleEngine.js
+ │    ├── descrambleEngine.js
+ │    ├── hexEngine.js
+ │    ├── antiHexEngine.js
+ │    ├── cPlusPlusPlusEngine.js
+ │    ├── antiCPlusPlusPlusEngine.js
+ │    ├── stabilityScanner.js
+ │    ├── consciousnessScanner.js
+ │    └── globalHealthAnalyzer.js
+ │
+ ├── orchestrator/
+ │    ├── mainOrchestrator.js
+ │    ├── orchestratorAnti.js
+ │    ├── orchestratorParadoxBound.js
+ │    ├── moduleRegistry.js
+ │    ├── autoTrainingLoop.js
+ │    └── autoFixEngine.js
+ │
+ ├── ai_systems/
+ │    ├── chaosArchitect.js
+ │    ├── antiChaosArchitect.js
+ │    ├── nineMindEngine.js
+ │    ├── antiNineMindEngine.js
+ │    ├── hallucinationMatrix.js
+ │    ├── paradoxFusionEngine.js
+ │    ├── ideaCollector.js
+ │    └── thoughtVault.js
+ │
+ ├── quantum/
+ │    ├── quantumSimulationLayer.js
+ │    ├── negativeQuantumField.js
+ │    ├── darkMatterMapper.js
+ │    └── tachyonHypersphereModel.js
+ │
+ ├── integrations/
+ │    ├── archLinuxIntegration.js
+ │    ├── mgxIntegration.js
+ │    ├── n8nIntegration.js
+ │    └── antiN8nIntegration.js
+ │
+ └── security/
+      ├── errorFirewall.js
+      ├── anomalyDetector.js
+      ├── threatPredictor.js
+      ├── firewallGenerator.js
+      └── antiIntrusionMirror.js

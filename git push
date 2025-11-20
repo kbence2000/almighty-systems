@@ -1,4 +1,4 @@
-https://<worker>.workers.dev/
+git push https://<worker>.workers.dev/
 
 POST https://<worker>.workers.dev/ai/singularity
 {

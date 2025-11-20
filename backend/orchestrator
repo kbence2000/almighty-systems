@@ -1,4 +1,0 @@
-backend/orchestrator/Orchestrator.js
-backend/orchestrator/AutoTrainingLoop.js
-backend/orchestrator/MetaCoordinator.js
-backend/orchestrator/ModuleCombiner.js

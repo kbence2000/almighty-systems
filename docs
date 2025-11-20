@@ -1,5 +1,8 @@
-docs/README.md
-docs/architecture.md
-docs/security.md
-docs/module-list.md
-docs/value-assessment.pdf
+docs/
+ ├── README.md
+ ├── SYSTEM_OVERVIEW.md
+ ├── AI_MODULE_DIRECTORY.md
+ ├── VALUE_ASSESSMENT.pdf
+ ├── ARCHITECTURE_MAP.png
+ ├── INSTALLATION_GUIDE.md
+ └── CHANGELOG.md

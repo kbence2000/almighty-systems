@@ -1,13 +1,8 @@
-# --- REQUIRED BY CLOUDFLARE PAGES ---
 name = "almighty-systems"
 
-# The folder Cloudflare should deploy (your frontend build)
-pages_build_output_dir = "frontend"
+[build]
+command = ""               # NINCS BUILD LÉPÉS
+pages_build_output_dir = "frontend"  # EZT TÖLTJÜK FEL
 
-# Optional: environment variables
-[vars]
-ENV = "production"
-
-# Optional preview environment config
-[env.preview]
-pages_build_output_dir = "frontend"
+[site]
+bucket = "frontend"

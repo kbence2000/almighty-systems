@@ -1,0 +1,12 @@
+{
+  "name": "almighty-systems",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Building Almighty Systems...\" && mkdir -p dist && cp -r frontend/* dist/",
+    "start": "npx wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

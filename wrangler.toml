@@ -1,7 +1,5 @@
 name = "almighty-systems"
-main = "frontend/index.html"
-compatibility_date = "2024-01-01"
+compatibility_date = "2025-01-01"
 
-# Ha API Worker lesz
-[build]
-command = "npm install && npm run build"
+# This is REQUIRED for Cloudflare Pages
+pages_build_output_dir = "./frontend"
